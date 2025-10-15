@@ -17,3 +17,10 @@ Features:
 GUI Preview:
 The visualizer displays multiple vertical purple bars representing random integers.
 When a sorting algorithm is selected, the bars move step-by-step to form a sorted sequence.
+
+Future Improvements:
+
+✅ Add color changes (e.g., red for comparisons, green for sorted elements)
+✅ Include Quick Sort and Heap Sort
+✅ Display time complexity of each algorithm on the screen
+✅ Option to adjust number of bars
