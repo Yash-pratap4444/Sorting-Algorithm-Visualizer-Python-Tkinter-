@@ -1,0 +1,18 @@
+1->Generate Bars
+Click “Shuffle” to create a new random array of bars.
+
+2->Choose Algorithm
+Select one of the algorithms — Insertion, Selection, Bubble, or Merge Sort.
+
+3->Watch the Animation
+The bars move according to the sorting logic, visualizing each step of the algorithm.
+
+4->Speed Control
+Adjust the speed slider (1 = slow motion, 100 = very fast).
+
+Installation & Usage:
+1->Clone or Download the Project
+2->Install Python
+Make sure you have Python 3.8+ installed.
+3->Run the Project
+No extra libraries are needed (only Tkinter, which comes pre-installed with Python).
