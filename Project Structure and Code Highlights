@@ -1,0 +1,16 @@
+Project Structure:
+sorting-visualizer/
+│
+├── sorting_visualizer.py     # Main Python file (contains full code)
+├── README.md                 # Project documentation (this file)
+└── (optional) assets/        # Folder for screenshots or demo GIFs
+
+Code Highlights:
+
+->Uses Tkinter Canvas to draw bars dynamically.
+
+->Implements each sorting algorithm as a Python generator (yield based), allowing smooth animation frame-by-frame.
+
+->The animate() function continuously calls next(worker) using after() for timed animation.
+
+->Clean UI with disabled buttons during execution to prevent interruptions.
